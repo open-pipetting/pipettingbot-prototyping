@@ -1,4 +1,4 @@
 pipettingbot-prototyping
 ========================
 
-Steps for prototying a pippetingbot
+Steps for prototying a pipettingbot
